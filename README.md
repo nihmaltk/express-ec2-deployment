@@ -22,7 +22,7 @@ Before deploying to EC2, test the application locally:
 ```bash
 # Clone and run locally
 git clone https://github.com/nihmaltk/express-ec2-deployment.git
-cd app
+cd express-ec2-deployment/app
 npm install
 npm start
 ```
@@ -65,7 +65,7 @@ git --version
 ```bash
 # Clone repository and setup
 git clone https://github.com/nihmaltk/express-ec2-deployment.git
-cd app
+cd express-ec2-deployment/app
 npm install
 
 # Start application
