@@ -57,7 +57,7 @@ Open browser: `http://<EC2-Public-IP>:3000`
 | SSH        | TCP      | 22   | Specific IP | SSH access         |
 | Custom TCP | TCP      | 3000 | 0.0.0.0/0 | Express app access   |
 
-## Tech Stack
+## Technologies Used
 
 - Node.js
 - Express.js
